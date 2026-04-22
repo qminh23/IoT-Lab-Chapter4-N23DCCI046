@@ -1,4 +1,8 @@
 # IoT Lab — Chapter 4: Raspberry Pi with Python
+
+![GitHub Actions](https://github.com/qminh23/IoT-Lab-Chapter4-N23DCCI046/actions/workflows/ci.yml/badge.svg)
+![GitLab CI](https://gitlab.com/qminh23/IoT-Lab-Chapter4-N23DCCI046/badges/main/pipeline.svg)
+
 **Họ tên:** Nguyễn Quang Minh
 **MSSV:** N23DCCI046
 **Lớp:** D23CQCI01-N
@@ -9,8 +13,8 @@
 | 1 | QEMU | BT1_QEMU_SystemMonitor/ | Hoàn thành |
 | 2 | QEMU | BT2_QEMU_SensorSim/ | Hoàn thành |
 | 3 | Wokwi | BT3_Wokwi_GPIO/ | Hoàn thành |
-| 4 | Sense HAT | BT4_SenseHAT/ | Chưa hoàn thành |
-| 5 | Tổng hợp | BT5_Integration/ | Chưa hoàn thành |
+| 4 | Sense HAT | BT4_SenseHAT/ | Hoàn thành |
+| 5 | Tổng hợp | BT5_Integration/ | Chưa làm |
 
 ## CI/CD
 - GitHub Actions: xem tab Actions trên GitHub
